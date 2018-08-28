@@ -2,7 +2,7 @@
 
 ### Day 0: August 27, 2018
 
-**Today's Progress**: Went from class 08 to 12, on the [React For Beginners](ReactForBeginners.com) course
+**Today's Progress**: Went from class 08 to 12, on the [React For Beginners](ReactForBeginners.com) course. I learned how to handle form submit event.
 
 **Thoughts:** I gotta pay more attention on the props side of the course!
 
